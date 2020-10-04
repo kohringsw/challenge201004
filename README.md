@@ -1,12 +1,12 @@
-#Horiseon
+# Horiseon
 
 ![Horiseon Landing Page](/assets/images/horiseon-landing-page.png)
 
-##What is Horiseon?
+## What is Horiseon?
 
 Horiseon is a marketing agency that values search engine optimization, online reputation management, and social media marketing. 
 
-##How does Horiseon benefit your business?
+## How does Horiseon benefit your business?
 
 1. Horiseon brings customers directly to your website through Lead Generation. 
 2. Horiseon will increase the visibility and search ranking of your business.
